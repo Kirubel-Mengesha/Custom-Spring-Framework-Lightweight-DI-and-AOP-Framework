@@ -1,0 +1,7 @@
+application/Application.class
+application/TempChangeEvent.class
+application/TempChangeListener.class
+application/EmailSender.class
+application/WeatherServiceImpl.class
+application/WeatherService.class
+application/Logger.class
